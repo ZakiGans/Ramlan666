@@ -3,7 +3,7 @@
 <center>
 My Sosmed :
 
-<a href="https://web.facebook.com/ramlan.redfield.3"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/iamramlan_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://web.facebook.com/ramlan.redfield.3"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/iamramlan_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   <a href="https://wa.me/6285559240360"><img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/WhatsApp.png" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
 
 
@@ -11,11 +11,6 @@ My Sosmed :
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 
----
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
-
----
 
 
 Wanna Hide Me ?
@@ -32,6 +27,11 @@ Donate For Me:
 ---
 <img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/kawaii.gif">
 
+---
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
+
+---
 ## Stats
 
 <a href="https://github.com/Ramlan666"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan666&show_icons=true&theme=radical"></a>
