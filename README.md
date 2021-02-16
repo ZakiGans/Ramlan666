@@ -3,7 +3,7 @@
 <center>
 My Sosmed :
 
-<a href="https://web.facebook.com/ramlan.redfield.3"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/iamramlan_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   <a href="https://wa.me/6285559240360"><img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/WhatsApp.png" alt="alt text" width="22" height="22"></a>
+<a href="https://web.facebook.com/ramlan.redfield.3"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/iamramlan_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp;   <a href="https://wa.me/6285559240360"><img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/WhatsApp.png" alt="alt text" width="25" height="25"></a>
  &nbsp;&nbsp; 
 
 
